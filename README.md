@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 
  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ranasurya/)  [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/SuryabhanRana)  [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="60">](https://medium.com/@suryabhanrana981)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:suryabhanrana981@gmail.com)
 
-<p align="left">
+<p align="center">
   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478ad5hxu2rar4hkruia6uq8k8hzv6exvvan27clsd&rid=giphy.gif&ct=g" width="880">
 </p> 
 
